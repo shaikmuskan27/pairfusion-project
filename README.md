@@ -89,5 +89,5 @@ This project was built to demonstrate proficiency in creating production-grade, 
     *   **Client (Frontend):** `http://localhost:5173`
     *   **Server (Backend):** `http://localhost:3000`
 
----
-  For any questions or feedback, please reach out via GitHub Issues or email: abhijeetgupta989@gmail.com.
+---INSPIRED BY ABHIJEET GUPTA
+  For any questions or feedback, please reach out via GitHub Issues or email: abhijeetgupta989@gmail.com, shaikmuskan2712@gmail.com
